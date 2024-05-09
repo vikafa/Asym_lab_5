@@ -3,7 +3,7 @@ import pickle
 import random
 
 HOST = '127.0.0.1'
-PORT = 8080
+PORT = 8081
 
 sock = socket.socket()
 sock.bind((HOST, PORT))
